@@ -2,7 +2,7 @@
 
 # JavaScript30
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
+Starter Files + Completed solutions for the JavaScript 30 Day Challenge by Wes Bos 
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
@@ -70,10 +70,4 @@ Here are some links of people who have done the tutorials, but in a different la
 * [ALMaclaine](https://github.com/almaclaine) Javascript 30 written in [Dart 2.0](https://github.com/ALMaclaine/Dart30).
 * [Connie Leung](https://github.com/railsstudent) Javascript 30 written in [Angular and RxJS](https://github.com/railsstudent/ng-rxjs-30).
 
-## A note on Pull Requests
 
-These are meant to be 1:1 copies of what is done in the video. If you found a better / different way to do things, great, but I will be keeping them the same as the videos.
-
-The starter files + solutions will be updated if/when the videos are updated.
-
-Thanks!
