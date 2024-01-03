@@ -134,7 +134,7 @@ function fountainPen() {
     }
 }
 
-function hatching() {
+function splatter() {
     stroke(15, 15, 255, 220)
     strokeWeight(1)
 
